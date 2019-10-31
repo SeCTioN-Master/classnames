@@ -23,3 +23,36 @@ File \life_server\Functions\MySQL\fn_queryRequest.sqf [DB_fnc_queryRequest]..., 
 Error: Object(10 : 5) not found
 "<infiSTAR.de FNC_AH_KICKLOGSPAWN> [""nsqujsiwupzdsk40i"",[""Pederson Hundshammer"",""76561198970266365"",""LVC"",cop_1,""AlessioAventadorCOP"",""032129""],""2:5726""]"
 "<infiSTAR.de FNC_AH_KICKLOGSPAWN> Pederson Hundshammer(76561198970266365) Token nsqujsiwupzdsk40i - objByNetID cop_1"
+"fn_updateDatabaseEntry.sqf 1"
+"fn_updateDatabaseEntry.sqf 2"
+"fn_updateDatabaseEntry.sqf 3"
+"fn_updateDatabaseEntry.sqf 1"
+"fn_updateDatabaseEntry.sqf 2"
+"fn_updateDatabaseEntry.sqf 3"
+"fn_updateDatabaseEntry.sqf 1"
+"fn_updateDatabaseEntry.sqf 2"
+"fn_updateDatabaseEntry.sqf 3"
+"fn_updateDatabaseEntry.sqf 1"
+"fn_updateDatabaseEntry.sqf 2"
+"fn_updateDatabaseEntry.sqf 3"
+"<infiSTAR.de FNC_AH_KICKLOGSPAWN> [""ygwa76q8zw0willhz5"",[""Finn Jason"",""76561198071168314"",""LVC"",civ_3,""AlessioAventadorCOP"",""034130""],""2:5731""]"
+"<infiSTAR.de FNC_AH_KICKLOGSPAWN> Finn Jason(76561198071168314) Token ygwa76q8zw0willhz5 - objByNetID civ_3"
+"<infiSTAR.de>CONNECTLOG| 0h 12min | Disconnected: Paul Pedal(76561198307277806 - 4) - time: 628.033 - serverFPS: 44.1989   [16-10-2019 21-28-15 - v259]"
+Client: Remote object 4:0 not found
+Warning: Cleanup player - person 2:5714 not found
+"<infiSTAR.de>TOKENLOG| Paul Pedal(76561198307277806) CLIENT OWNER ID [4], TOKEN [p0g0aczl4kpqr1]   [16-10-2019 21-28-15 - v259]"
+"<infiSTAR.de> ******ADMIN-LOGIN******: Paul Pedal(76561198307277806) (v259)"
+"<infiSTAR.de>CONNECTLOG| 0h 12min | Connected: Paul Pedal(76561198307277806 - 4) - time: 638 - serverFPS: 46.6472   [16-10-2019 21-28-15 - v259]"
+Speaker Male01_F not found in CfgVoiceTypes
+"Requesting player experience data for user ID 76561198307277806 | Query (1): SELECT exp_level, exp_total, exp_perkPoints, exp_perks FROM players WHERE pid = '76561198307277806'"
+"Requested player experience data for user ID 76561198307277806 | Query (2): [5,2731,0,[[[""perk_gunsspecialist_lessRecoil_1"",1],[[[""perk_gunsspecialist_lessRecoil_2"",0],[[""perk_gunsspecialist_lessRecoil_3"",0]]]]],[[""perk_paycheck_1"",1],[[[""perk_paycheck_2"",0],[[""perk_paycheck_3"",0]]]]],[[""perk_processing_1"",1],[[[""perk_processing_2"",0],[[""perk_processing_3"",0]]]]],[[""perk_locksmith_1"",0],[[[""perk_locksmith_2"",0],[[""perk_locksmith_3"",0]]]]],[[""perk_revive_1"",0],[[[""perk_revive_2"",0],[[""perk_revive_3"",0]]]]],[[""perk_reparieren_1"",0],[[[""perk_reparieren_2"",0],[[""perk_reparieren_3"",0]]]]]]]"
+"Requested player experience data for user ID 76561198307277806 | Query (3): [5,2731,0,[[[""perk_gunsspecialist_lessRecoil_1"",1],[[[""perk_gunsspecialist_lessRecoil_2"",0],[[""perk_gunsspecialist_lessRecoil_3"",0]]]]],[[""perk_paycheck_1"",1],[[[""perk_paycheck_2"",0],[[""perk_paycheck_3"",0]]]]],[[""perk_processing_1"",1],[[[""perk_processing_2"",0],[[""perk_processing_3"",0]]]]],[[""perk_locksmith_1"",0],[[[""perk_locksmith_2"",0],[[""perk_locksmith_3"",0]]]]],[[""perk_revive_1"",0],[[[""perk_revive_2"",0],[[""perk_revive_3"",0]]]]],[[""perk_reparieren_1"",0],[[[""perk_reparieren_2"",0],[[""perk_reparieren_3"",0]]]]]]]"
+"Requested player experience data for user ID 76561198307277806 | Query (4): [5,2731,0,[[[""perk_gunsspecialist_lessRecoil_1"",true],[[[""perk_gunsspecialist_lessRecoil_2"",false],[[""perk_gunsspecialist_lessRecoil_3"",false]]]]],[[""perk_paycheck_1"",true],[[[""perk_paycheck_2"",false],[[""perk_paycheck_3"",false]]]]],[[""perk_processing_1"",true],[[[""perk_processing_2"",false],[[""perk_processing_3"",false]]]]],[[""perk_locksmith_1"",false],[[[""perk_locksmith_2"",false],[[""perk_locksmith_3"",false]]]]],[[""perk_revive_1"",false],[[[""perk_revive_2"",false],[[""perk_revive_3"",false]]]]],[[""perk_reparieren_1"",false],[[[""perk_reparieren_2"",false],[[""perk_reparieren_3"",false]]]]]]]"
+Error: Object(4 : 10) not found
+Error: Object(4 : 11) not found
+Error: Object(4 : 12) not found
+Strange convex component42 in alessiors4cop\alessiors4cop.p3d:geometryFire
+AlessioRS4COP: lamp1 - unknown animation source gyro
+AlessioRS4COP: lamp2 - unknown animation source gyro
+Error: Item of aggregateReflectors is not an array
+In Vehicle: alessiors4cop\alessiors4cop.p3d missing cargo 1 get in direction point
