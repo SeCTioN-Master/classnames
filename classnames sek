@@ -1,0 +1,32 @@
+Objekt											Classname 
+Polizeigürtel									DOF_Polizei_Waffenkoppel
+Uniform											DOF_Polizei_uniform	
+Polizeibasecap									DOF_Polizei_basecap							
+Polizeiweste V1									DOF_Polizei_Schussweste_V1
+Polizeiweste V2									DOF_Polizei_Schussweste_V2
+SEK Uniform										DOF_Polizei_SEKUniform
+SEK Uniform (Sanitäter)							DOF_Polizei_SEKuniform_medic
+SEK Helm										DOF_Polizei_SEKhelm
+SEK Helm (Truppführer)							DOF_Polizei_SEKhelmet_leader
+SEK Helm (Sanitäter)							DOF_Polizei_EKhelmet_medic
+SEK Weste										DOF_Polizei_SEKWeste
+SEK Weste (Sanitäter)							DOF_Polizei_SEKWeste_medic
+
+Taser											DOF_Polizei_X26Taser
+
+
+Steife (unbewaffnet)							Streifenpolizist_V1
+Streife (Pistole)								Streifenpolizist_V2
+Steife (MP)										Streifenpolizist_V3
+Streife (MP+Weste)								Streifenpolizist_V3_1
+
+SEK Beamter	 (unbewaffnet)						DOF_SEK_Polizist
+SEK Beamter (SMG)								DOF_SEK_Polizist_SMG
+SEK Scharfschütze								DOF_SEK_Polizist_Sniper
+SEK Beamter (MX)								DOF_SEK_Polizist_MX
+SEK Beamter (Enginer)							DOF_SEK_Polizist_Rep
+SEK Bemater (Sprenger)							DOF_SEK_Polizist_exp
+SEK Kommandoführer								DOF_SEK_Polizist_Commander
+
+Offroad	(unbewaffnet)										dof_polizei_offroad
+Fennek (unbewaffnet)							dof_polizei_SEKFennek
