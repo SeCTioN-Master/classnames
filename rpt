@@ -1,0 +1,25 @@
+"<infiSTAR.de FNC_AH_KICKLOGSPAWN> [""avpl14l2l3koz2fvql"",[""Rudi Ralle"",""76561198088035035"",""ALOG"",[84,101,108,101,112,111,114,116,32,116,111,32,91,49,54,51,52,55,46,51,44,49,55,50,55,52,46,57,44,48,93,40,71,80,83,58,32,49,54,51,49,55,50,41]],""2:5721""]"
+"<infiSTAR.de FNC_AH_KICKLOGSPAWN> Rudi Ralle(76561198088035035) Token avpl14l2l3koz2fvql - objByNetID civ_2"
+"<infiSTAR.de>ADMINLOG| 0h 7min | Rudi Ralle(76561198088035035) | Teleport to [16347.3,17274.9,0](GPS: 163172)   [16-10-2019 21-28-15 - v259]"
+AlessioAventadorCOP: lamp1 - unknown animation source gyro
+AlessioAventadorCOP: lamp2 - unknown animation source gyro
+Error: Item of aggregateReflectors is not an array
+alessioaventador\data\gtillelow.p3d: No geometry and no visual shape
+alessioaventador\data\carbonlow.p3d: No geometry and no visual shape
+a3\characters_f\heads\glasses\g_shades_black.p3d: No geometry and no visual shape
+"<infiSTAR.de>TOKENLOG| Alonso Kay(76561198069725431) CLIENT OWNER ID [10], TOKEN [itut2p3g4z5ec3t]   [16-10-2019 21-28-15 - v259]"
+"<infiSTAR.de>CONNECTLOG| 0h 7min | Connected: Alonso Kay(76561198069725431 - 10) - time: 369.436 - serverFPS: 46.5116   [16-10-2019 21-28-15 - v259]"
+"Requesting player experience data for user ID 76561198069725431 | Query (1): SELECT exp_level, exp_total, exp_perkPoints, exp_perks FROM players WHERE pid = '76561198069725431'"
+"Requested player experience data for user ID 76561198069725431 | Query (2): [0,0,0,""""]"
+"Requested player experience data for user ID 76561198069725431 | Query (3): [0,0,0,[]]"
+"Requested player experience data for user ID 76561198069725431 | Query (4): [0,0,0,[]]"
+Error in expression <w select 2] call TON_fnc_setPlayTime;
+
+
+_player setVariable ["JailTime",(_queryR>
+  Error position: <_player setVariable ["JailTime",(_queryR>
+  Error Undefined variable in expression: _player
+File \life_server\Functions\MySQL\fn_queryRequest.sqf [DB_fnc_queryRequest]..., line 185
+Error: Object(10 : 5) not found
+"<infiSTAR.de FNC_AH_KICKLOGSPAWN> [""nsqujsiwupzdsk40i"",[""Pederson Hundshammer"",""76561198970266365"",""LVC"",cop_1,""AlessioAventadorCOP"",""032129""],""2:5726""]"
+"<infiSTAR.de FNC_AH_KICKLOGSPAWN> Pederson Hundshammer(76561198970266365) Token nsqujsiwupzdsk40i - objByNetID cop_1"
